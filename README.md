@@ -8,7 +8,7 @@ Hack Cameras
 
 * ```apt-get install git```
 
-* ```git clone https://github.com/AngelSecurityTeam/Cam-Hackers```
+* ```git clone https://github.com/Error-For-You/Cam-Hacker```
 
 * ```pip3 install requests```
 
@@ -26,4 +26,6 @@ Hack Cameras
 
 <img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto2.png">
 
-<h3> Paypal donations: </h3>
+<h3> GIT LINK: </h3>
+
+https://github.com/Error-For-You
